@@ -1,7 +1,10 @@
 # Lab 1: Define the Initial Product
 
 ## 1. Product research
-
+| Product | Likely User and goal | Reusable pattern |
+| ------- | -------------------- | ---------------- |
+| Google Finance (market data) | Someone who invests on their own and checks the market often. They want to see prices and how their own stocks are doing. | The User adds their stocks to a portfolio. For each stock it shows the price, how many they own, the change today, total gain or loss and what it's worth now, plus the time of the price. There are also watchlists. |
+| Interactive Brokers (trading) | An IBKR client who wants to keep an eye on what's in their account, and buy or sell it. | A list of what the User owns, with what it's worth now, profit or loss today, and profit or loss on things not sold yet. All accounts are on one page, and each block shows the date of its data. |
 ## 2. Stakeholders and actors
 
 ## 3. Product promise and scope

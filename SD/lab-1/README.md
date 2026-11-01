@@ -1,6 +1,12 @@
 # Lab 1: Define the Initial Product
 
 ## 1. Product research
+
+### Research question
+
+> How do existing products help a User follow market information, and which
+> parts belong in this Dashboard's first version?
+
 | Product | Likely User and goal | Reusable pattern |
 | ------- | -------------------- | ---------------- |
 | Google Finance (market data) | Someone who invests on their own and checks the market often. They want to see prices and how their own stocks are doing. | The User adds their stocks to a portfolio. For each stock it shows the price, how many they own, the change today, total gain or loss and what it's worth now, plus the time of the price. There are also watchlists. |

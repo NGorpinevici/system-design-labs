@@ -1,5 +1,9 @@
 # Lab 1: Define the Initial Product
 
+Student: Nicolai Gorpinevici
+ 
+Group: INFA241fr
+
 Product: Personal Investment Dashboard
 
 Client request: "Help me follow my investments."
